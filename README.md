@@ -1,4 +1,6 @@
 # Rental Bike Demand Prediction
+
+![](Images/Rental%20Bikes.jpg)
 In this project, we analyzed the rental bikes demand dataset, created visualizations to get discover hidden patterns, performed descriptive statistical analysis and retrieved inferencial statistical analysis.
 
 ## Context
